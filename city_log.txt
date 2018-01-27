@@ -1,0 +1,2000 @@
+requesting data for a city
+	ID number: 5303752
+	name: Maricopa
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5303752
+requesting data for a city
+	ID number: 2811698
+	name: Weisswasser
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2811698
+requesting data for a city
+	ID number: 1791914
+	name: Wangqinzhuang
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1791914
+requesting data for a city
+	ID number: 7292669
+	name: Great Sankey
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7292669
+requesting data for a city
+	ID number: 3217047
+	name: Pocerski Pricinovic
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3217047
+requesting data for a city
+	ID number: 3177384
+	name: Entracque
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3177384
+requesting data for a city
+	ID number: 502965
+	name: Ramenskoye
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=502965
+requesting data for a city
+	ID number: 190147
+	name: Kwa Jomvu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=190147
+requesting data for a city
+	ID number: 2176354
+	name: Belgravia
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2176354
+requesting data for a city
+	ID number: 5128734
+	name: Niagara County
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5128734
+requesting data for a city
+	ID number: 4887574
+	name: Chillicothe
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4887574
+requesting data for a city
+	ID number: 2812790
+	name: Weiher
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2812790
+requesting data for a city
+	ID number: 2178267
+	name: Adelong
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2178267
+requesting data for a city
+	ID number: 538711
+	name: Nizhniy Kurkuzhin
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=538711
+requesting data for a city
+	ID number: 7297805
+	name: Mumbles
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7297805
+requesting data for a city
+	ID number: 3098665
+	name: Goscino
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3098665
+requesting data for a city
+	ID number: 7688385
+	name: Alurbulu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7688385
+requesting data for a city
+	ID number: 3460490
+	name: Ivatuba
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3460490
+requesting data for a city
+	ID number: 2924679
+	name: Friedland
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2924679
+requesting data for a city
+	ID number: 653129
+	name: Kesalahti
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=653129
+requesting data for a city
+	ID number: 1696188
+	name: Palauig
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1696188
+requesting data for a city
+	ID number: 2165455
+	name: Glastonbury
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2165455
+requesting data for a city
+	ID number: 2593109
+	name: Andalucía
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2593109
+requesting data for a city
+	ID number: 717771
+	name: Mateszalka
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=717771
+requesting data for a city
+	ID number: 1275466
+	name: Bishnah
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1275466
+requesting data for a city
+	ID number: 5180859
+	name: Blandon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5180859
+requesting data for a city
+	ID number: 6556900
+	name: Dietersheim
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6556900
+requesting data for a city
+	ID number: 2517634
+	name: Fresneda de Altarejos
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2517634
+requesting data for a city
+	ID number: 3020065
+	name: Eperlecques
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3020065
+requesting data for a city
+	ID number: 668278
+	name: Sadu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=668278
+requesting data for a city
+	ID number: 3315013
+	name: Trooperstown
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3315013
+requesting data for a city
+	ID number: 735764
+	name: Chortiatis
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=735764
+requesting data for a city
+	ID number: 1274032
+	name: Chittur
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1274032
+requesting data for a city
+	ID number: 2881130
+	name: Langen Brutz
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2881130
+requesting data for a city
+	ID number: 4504811
+	name: Westville
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4504811
+requesting data for a city
+	ID number: 324768
+	name: Akdagmadeni
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=324768
+requesting data for a city
+	ID number: 2977446
+	name: Saint-Pierre-la-Cour
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2977446
+requesting data for a city
+	ID number: 1734098
+	name: Keningau
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1734098
+requesting data for a city
+	ID number: 2939505
+	name: Dackscheid
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2939505
+requesting data for a city
+	ID number: 3460512
+	name: Itutinga
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3460512
+requesting data for a city
+	ID number: 6358157
+	name: Donostia-San Sebastián
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6358157
+requesting data for a city
+	ID number: 2643953
+	name: Llansannan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2643953
+requesting data for a city
+	ID number: 2185978
+	name: Northland
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2185978
+requesting data for a city
+	ID number: 693805
+	name: Simferopol
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=693805
+requesting data for a city
+	ID number: 4929785
+	name: Barre
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4929785
+requesting data for a city
+	ID number: 6555189
+	name: Hainfeld
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6555189
+requesting data for a city
+	ID number: 2845176
+	name: Roringen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2845176
+requesting data for a city
+	ID number: 2907542
+	name: Heiligenstedten
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2907542
+requesting data for a city
+	ID number: 498760
+	name: Sapozhok
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=498760
+requesting data for a city
+	ID number: 6550084
+	name: Hochheim
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6550084
+requesting data for a city
+	ID number: 2974949
+	name: Serent
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2974949
+requesting data for a city
+	ID number: 6429500
+	name: Ribagnac
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6429500
+requesting data for a city
+	ID number: 3053971
+	name: Csomor
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3053971
+requesting data for a city
+	ID number: 7531899
+	name: Mielec
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7531899
+requesting data for a city
+	ID number: 6693123
+	name: Churchtown
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6693123
+requesting data for a city
+	ID number: 2338640
+	name: Igbo-Ukwu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2338640
+requesting data for a city
+	ID number: 487318
+	name: Strakhovskiy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=487318
+requesting data for a city
+	ID number: 2662830
+	name: Vingaker
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2662830
+requesting data for a city
+	ID number: 481960
+	name: Totma
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=481960
+requesting data for a city
+	ID number: 6537550
+	name: Giovinazzo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6537550
+requesting data for a city
+	ID number: 6697850
+	name: Hoek
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6697850
+requesting data for a city
+	ID number: 7531275
+	name: Dębica
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7531275
+requesting data for a city
+	ID number: 6612700
+	name: Mieuxcé
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6612700
+requesting data for a city
+	ID number: 2936600
+	name: Dobitschen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2936600
+requesting data for a city
+	ID number: 2845121
+	name: Rosellen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2845121
+requesting data for a city
+	ID number: 5042773
+	name: Red Wing
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5042773
+requesting data for a city
+	ID number: 8070803
+	name: Mlawat
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8070803
+requesting data for a city
+	ID number: 1707339
+	name: La Paz
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1707339
+requesting data for a city
+	ID number: 5098303
+	name: Frenchtown
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5098303
+requesting data for a city
+	ID number: 2972312
+	name: Toulouzette
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2972312
+requesting data for a city
+	ID number: 2993390
+	name: Monchy-Saint-Eloi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2993390
+requesting data for a city
+	ID number: 6555604
+	name: Wört
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6555604
+requesting data for a city
+	ID number: 6621294
+	name: Culpina
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6621294
+requesting data for a city
+	ID number: 2019266
+	name: Nikolayevka
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2019266
+requesting data for a city
+	ID number: 1235000
+	name: Minuwangoda
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1235000
+requesting data for a city
+	ID number: 2166759
+	name: Fernihurst
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2166759
+requesting data for a city
+	ID number: 7064007
+	name: Zhangjiabao
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7064007
+requesting data for a city
+	ID number: 1898149
+	name: Mirukashi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1898149
+requesting data for a city
+	ID number: 2878411
+	name: Letzin
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2878411
+requesting data for a city
+	ID number: 2824456
+	name: Sylda
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2824456
+requesting data for a city
+	ID number: 3249080
+	name: Landkreis Dahme-Spreewald
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3249080
+requesting data for a city
+	ID number: 2936929
+	name: Dingen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2936929
+requesting data for a city
+	ID number: 2737640
+	name: Miranda do Douro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2737640
+requesting data for a city
+	ID number: 8067425
+	name: Rahayu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8067425
+requesting data for a city
+	ID number: 3197338
+	name: Kravarsko
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3197338
+requesting data for a city
+	ID number: 6941688
+	name: Bhratang
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6941688
+requesting data for a city
+	ID number: 478699
+	name: Urman
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=478699
+requesting data for a city
+	ID number: 2768098
+	name: Radstadt
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2768098
+requesting data for a city
+	ID number: 6551882
+	name: Melsdorf
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6551882
+requesting data for a city
+	ID number: 3173008
+	name: Montecarlo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3173008
+requesting data for a city
+	ID number: 3121736
+	name: Galilea
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3121736
+requesting data for a city
+	ID number: 3120647
+	name: Hornillos de Cameros
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3120647
+requesting data for a city
+	ID number: 5184748
+	name: Coaldale
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5184748
+requesting data for a city
+	ID number: 4054866
+	name: Cherokee
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4054866
+requesting data for a city
+	ID number: 1629957
+	name: Rarang Selatan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1629957
+requesting data for a city
+	ID number: 8011843
+	name: Gândaras
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8011843
+requesting data for a city
+	ID number: 3814136
+	name: El Llano
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3814136
+requesting data for a city
+	ID number: 1690069
+	name: San Fernando
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1690069
+requesting data for a city
+	ID number: 1606350
+	name: Sawang Daen Din
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1606350
+requesting data for a city
+	ID number: 6557069
+	name: Schwebheim
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6557069
+requesting data for a city
+	ID number: 4683141
+	name: Cooper
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4683141
+requesting data for a city
+	ID number: 7294581
+	name: Northwich
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7294581
+requesting data for a city
+	ID number: 3006196
+	name: La Tourlandry
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3006196
+requesting data for a city
+	ID number: 668252
+	name: Salacea
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=668252
+requesting data for a city
+	ID number: 7872618
+	name: Lechaschau
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7872618
+requesting data for a city
+	ID number: 6359505
+	name: Torremolinos
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6359505
+requesting data for a city
+	ID number: 538108
+	name: Kuvshinovo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=538108
+requesting data for a city
+	ID number: 565912
+	name: Dmitrovskiy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=565912
+requesting data for a city
+	ID number: 322324
+	name: Bahcesaray
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=322324
+requesting data for a city
+	ID number: 264482
+	name: Asopia
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=264482
+requesting data for a city
+	ID number: 6431060
+	name: Santec
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6431060
+requesting data for a city
+	ID number: 3645304
+	name: Concepcion
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3645304
+requesting data for a city
+	ID number: 6445160
+	name: Noirmoutier-en-l'Île
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6445160
+requesting data for a city
+	ID number: 2968752
+	name: Villefranche-du-Queyran
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2968752
+requesting data for a city
+	ID number: 6535893
+	name: Chiusa - Klausen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6535893
+requesting data for a city
+	ID number: 3912300
+	name: La Cueva
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3912300
+requesting data for a city
+	ID number: 3003589
+	name: Le Marcet
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3003589
+requesting data for a city
+	ID number: 3402528
+	name: Catende
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3402528
+requesting data for a city
+	ID number: 4242769
+	name: Lawrenceville
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4242769
+requesting data for a city
+	ID number: 2903662
+	name: Hirschfeld
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2903662
+requesting data for a city
+	ID number: 1278302
+	name: Asegaon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1278302
+requesting data for a city
+	ID number: 3117409
+	name: Marin
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3117409
+requesting data for a city
+	ID number: 1654401
+	name: Pakkading
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1654401
+requesting data for a city
+	ID number: 5172460
+	name: South Canal
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5172460
+requesting data for a city
+	ID number: 3887736
+	name: Huechún
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3887736
+requesting data for a city
+	ID number: 5261457
+	name: Madison
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5261457
+requesting data for a city
+	ID number: 2021613
+	name: Krasnorechenskiy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2021613
+requesting data for a city
+	ID number: 6358034
+	name: Terzaga
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6358034
+requesting data for a city
+	ID number: 8063076
+	name: Kuruc-domb
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8063076
+requesting data for a city
+	ID number: 6553410
+	name: Kescheid
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6553410
+requesting data for a city
+	ID number: 3107303
+	name: Ulldemolins
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3107303
+requesting data for a city
+	ID number: 2342883
+	name: Ezza Ohu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2342883
+requesting data for a city
+	ID number: 6426384
+	name: Dosches
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6426384
+requesting data for a city
+	ID number: 1793119
+	name: Taoxia
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1793119
+requesting data for a city
+	ID number: 2172219
+	name: Carrick
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2172219
+requesting data for a city
+	ID number: 675193
+	name: Joita
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=675193
+requesting data for a city
+	ID number: 6181934
+	name: Wildwood
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6181934
+requesting data for a city
+	ID number: 1923099
+	name: Lintang
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1923099
+requesting data for a city
+	ID number: 6557092
+	name: Margetshöchheim
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6557092
+requesting data for a city
+	ID number: 2896776
+	name: Ichenhausen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2896776
+requesting data for a city
+	ID number: 5194512
+	name: Hummels Wharf
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5194512
+requesting data for a city
+	ID number: 4074628
+	name: Mariners Cove
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4074628
+requesting data for a city
+	ID number: 3025972
+	name: Chaudron-en-Mauges
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3025972
+requesting data for a city
+	ID number: 6359491
+	name: Sedella
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6359491
+requesting data for a city
+	ID number: 6556355
+	name: Schweitenkirchen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6556355
+requesting data for a city
+	ID number: 6048131
+	name: La Guadeloupe
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6048131
+requesting data for a city
+	ID number: 624199
+	name: Aktsyabrski
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=624199
+requesting data for a city
+	ID number: 3647982
+	name: Botijones
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3647982
+requesting data for a city
+	ID number: 2855144
+	name: Pecheigen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2855144
+requesting data for a city
+	ID number: 4162004
+	name: Limestone Creek
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4162004
+requesting data for a city
+	ID number: 1273909
+	name: Churachandpur
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1273909
+requesting data for a city
+	ID number: 5798453
+	name: Island County
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5798453
+requesting data for a city
+	ID number: 3106192
+	name: Velliza
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3106192
+requesting data for a city
+	ID number: 430567
+	name: iProvense ya Ngozi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=430567
+requesting data for a city
+	ID number: 914555
+	name: Kamboka
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=914555
+requesting data for a city
+	ID number: 5356767
+	name: Hidden Valley Lake
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5356767
+requesting data for a city
+	ID number: 2568012
+	name: Taghazout
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2568012
+requesting data for a city
+	ID number: 4137330
+	name: Yoder
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4137330
+requesting data for a city
+	ID number: 764494
+	name: Mojcza
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=764494
+requesting data for a city
+	ID number: 2633985
+	name: Wick
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2633985
+requesting data for a city
+	ID number: 6957985
+	name: Gubo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6957985
+requesting data for a city
+	ID number: 2024449
+	name: El’ban
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2024449
+requesting data for a city
+	ID number: 2165381
+	name: Glencoe West
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2165381
+requesting data for a city
+	ID number: 4828090
+	name: Elmore
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4828090
+requesting data for a city
+	ID number: 2969474
+	name: Vezenobres
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2969474
+requesting data for a city
+	ID number: 8012564
+	name: Carmões
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8012564
+requesting data for a city
+	ID number: 1679965
+	name: Viga
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1679965
+requesting data for a city
+	ID number: 4454373
+	name: Beaufort County
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4454373
+requesting data for a city
+	ID number: 2967293
+	name: Wolfisheim
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2967293
+requesting data for a city
+	ID number: 2597269
+	name: Province du Ziro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2597269
+requesting data for a city
+	ID number: 2634171
+	name: Wheatley
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2634171
+requesting data for a city
+	ID number: 2753705
+	name: Gemeente Hoogezand-Sappemeer
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2753705
+requesting data for a city
+	ID number: 2831802
+	name: Sittensen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2831802
+requesting data for a city
+	ID number: 3430015
+	name: Picada Gobernador Lopez
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3430015
+requesting data for a city
+	ID number: 2840016
+	name: Scheibenhardt
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2840016
+requesting data for a city
+	ID number: 2841741
+	name: Sands
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2841741
+requesting data for a city
+	ID number: 1170395
+	name: Mingaora
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1170395
+requesting data for a city
+	ID number: 3139075
+	name: Skien
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3139075
+requesting data for a city
+	ID number: 6555330
+	name: Hinterweidenthal
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6555330
+requesting data for a city
+	ID number: 5402159
+	name: Thermalito
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5402159
+requesting data for a city
+	ID number: 469372
+	name: Yalkhoy-Mokhk
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=469372
+requesting data for a city
+	ID number: 70221
+	name: At Ta‘izzīyah
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=70221
+requesting data for a city
+	ID number: 6362096
+	name: Simat de la Valldigna
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6362096
+requesting data for a city
+	ID number: 3087773
+	name: Przyszowice
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3087773
+requesting data for a city
+	ID number: 4705758
+	name: Lee County
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4705758
+requesting data for a city
+	ID number: 8012350
+	name: Aguda
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8012350
+requesting data for a city
+	ID number: 1648340
+	name: Bolaang
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1648340
+requesting data for a city
+	ID number: 5251390
+	name: East Troy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5251390
+requesting data for a city
+	ID number: 1707248
+	name: Lapuz
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1707248
+requesting data for a city
+	ID number: 2811384
+	name: Welt
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2811384
+requesting data for a city
+	ID number: 2650386
+	name: East Lothian
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2650386
+requesting data for a city
+	ID number: 2744191
+	name: Wommels
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2744191
+requesting data for a city
+	ID number: 2846076
+	name: Rödemis
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2846076
+requesting data for a city
+	ID number: 3172903
+	name: Montegiordano
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3172903
+requesting data for a city
+	ID number: 1796179
+	name: Shangliang
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1796179
+requesting data for a city
+	ID number: 8170724
+	name: Sumbergesing Wetan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8170724
+requesting data for a city
+	ID number: 6425776
+	name: Ruoms
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6425776
+requesting data for a city
+	ID number: 7690182
+	name: Qiaoxi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7690182
+requesting data for a city
+	ID number: 1783626
+	name: Zuitai
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1783626
+requesting data for a city
+	ID number: 3107677
+	name: Tortosa
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3107677
+requesting data for a city
+	ID number: 6356044
+	name: Argençola
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6356044
+requesting data for a city
+	ID number: 3113549
+	name: Pina de Ebro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3113549
+requesting data for a city
+	ID number: 7116056
+	name: Carregal do Sal
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7116056
+requesting data for a city
+	ID number: 6455404
+	name: Dammarie-les-Lys
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6455404
+requesting data for a city
+	ID number: 2782292
+	name: Attendorf
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2782292
+requesting data for a city
+	ID number: 1850499
+	name: Tatsuno
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1850499
+requesting data for a city
+	ID number: 1271987
+	name: Etawah
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1271987
+requesting data for a city
+	ID number: 552999
+	name: Kapustin Yar
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=552999
+requesting data for a city
+	ID number: 7839734
+	name: Inverell
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7839734
+requesting data for a city
+	ID number: 6427778
+	name: Mouthiers-sur-Boëme
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6427778
+requesting data for a city
+	ID number: 3010718
+	name: La Brulardière
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3010718
+requesting data for a city
+	ID number: 1706250
+	name: Linaon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1706250
+requesting data for a city
+	ID number: 2800395
+	name: Chênée
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2800395
+requesting data for a city
+	ID number: 4816993
+	name: Oak Hill
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4816993
+requesting data for a city
+	ID number: 2899352
+	name: Honigsee
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2899352
+requesting data for a city
+	ID number: 7409970
+	name: Setanggor
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7409970
+requesting data for a city
+	ID number: 6440460
+	name: Lasse
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6440460
+requesting data for a city
+	ID number: 2922143
+	name: Gebroth
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2922143
+requesting data for a city
+	ID number: 3397560
+	name: Jardim do Serido
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3397560
+requesting data for a city
+	ID number: 3182628
+	name: Avilla
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3182628
+requesting data for a city
+	ID number: 4915294
+	name: Wadsworth
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4915294
+requesting data for a city
+	ID number: 6554673
+	name: Utzerath
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6554673
+requesting data for a city
+	ID number: 3467849
+	name: Campinorte
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3467849
+requesting data for a city
+	ID number: 2523371
+	name: San Sosti
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2523371
+requesting data for a city
+	ID number: 2768798
+	name: Pirat
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2768798
+requesting data for a city
+	ID number: 3663516
+	name: Mancio Lima
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3663516
+requesting data for a city
+	ID number: 4153759
+	name: Dunedin
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4153759
+requesting data for a city
+	ID number: 656913
+	name: Hyvinkaa
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=656913
+requesting data for a city
+	ID number: 7962239
+	name: Shankhamul Dobhan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7962239
+requesting data for a city
+	ID number: 517668
+	name: Novoye
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=517668
+requesting data for a city
+	ID number: 2021343
+	name: Kultuk
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2021343
+requesting data for a city
+	ID number: 2842148
+	name: Salzgitter-Bad
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2842148
+requesting data for a city
+	ID number: 6362817
+	name: Isuerre
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6362817
+requesting data for a city
+	ID number: 3121832
+	name: Fuentesnuevas
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3121832
+requesting data for a city
+	ID number: 1725513
+	name: Betwagan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1725513
+requesting data for a city
+	ID number: 2940097
+	name: Christes
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2940097
+requesting data for a city
+	ID number: 2026979
+	name: Baykalsk
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2026979
+requesting data for a city
+	ID number: 3816251
+	name: Altamirano
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3816251
+requesting data for a city
+	ID number: 2149475
+	name: Singleton
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2149475
+requesting data for a city
+	ID number: 1855891
+	name: Nakamura
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1855891
+requesting data for a city
+	ID number: 2170622
+	name: Coolatai
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2170622
+requesting data for a city
+	ID number: 2077293
+	name: Balingup
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2077293
+requesting data for a city
+	ID number: 1714673
+	name: Dipolog City
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1714673
+requesting data for a city
+	ID number: 5844096
+	name: American Fork
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5844096
+requesting data for a city
+	ID number: 617483
+	name: Raionul Rîşcani
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=617483
+requesting data for a city
+	ID number: 5256281
+	name: Hilbert
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5256281
+requesting data for a city
+	ID number: 6621283
+	name: Camargo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6621283
+requesting data for a city
+	ID number: 2947820
+	name: Bleiderdingen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2947820
+requesting data for a city
+	ID number: 761561
+	name: Pomiechowek
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=761561
+requesting data for a city
+	ID number: 8014461
+	name: Santa Comba de Rossas
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8014461
+requesting data for a city
+	ID number: 3128304
+	name: Benavarri / Benabarre
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3128304
+requesting data for a city
+	ID number: 1607592
+	name: Pho Sai
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1607592
+requesting data for a city
+	ID number: 2923359
+	name: Gaggstatt
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2923359
+requesting data for a city
+	ID number: 2909497
+	name: Häslich
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2909497
+requesting data for a city
+	ID number: 4225613
+	name: Talbotton
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4225613
+requesting data for a city
+	ID number: 1508943
+	name: Borodino
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1508943
+requesting data for a city
+	ID number: 7522269
+	name: Haapsalu linn
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7522269
+requesting data for a city
+	ID number: 477267
+	name: Valishchevo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=477267
+requesting data for a city
+	ID number: 2986435
+	name: Pomerol
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2986435
+requesting data for a city
+	ID number: 569620
+	name: Chegorovo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=569620
+requesting data for a city
+	ID number: 3114303
+	name: Parbayón
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3114303
+requesting data for a city
+	ID number: 488291
+	name: Staroye Shugurovo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=488291
+requesting data for a city
+	ID number: 6943603
+	name: Perth
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6943603
+requesting data for a city
+	ID number: 1865312
+	name: Anamizu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1865312
+requesting data for a city
+	ID number: 5288629
+	name: Casa Blanca
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5288629
+requesting data for a city
+	ID number: 667034
+	name: Sangeorgiu de Mures
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=667034
+requesting data for a city
+	ID number: 4402594
+	name: Passover
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4402594
+requesting data for a city
+	ID number: 1816770
+	name: Beicheng
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1816770
+requesting data for a city
+	ID number: 6360065
+	name: Monzón de Campos
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6360065
+requesting data for a city
+	ID number: 1855301
+	name: Nishi-hanawa
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1855301
+requesting data for a city
+	ID number: 2740710
+	name: Cimbres
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2740710
+requesting data for a city
+	ID number: 7285133
+	name: Bachenbülach
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7285133
+requesting data for a city
+	ID number: 784288
+	name: Vojka
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=784288
+requesting data for a city
+	ID number: 2807267
+	name: Wittibreut
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2807267
+requesting data for a city
+	ID number: 6359001
+	name: Alfaro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6359001
+requesting data for a city
+	ID number: 3182455
+	name: Ballabio
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3182455
+requesting data for a city
+	ID number: 2609990
+	name: Vra
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2609990
+requesting data for a city
+	ID number: 3668572
+	name: Santander de Quilichao
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3668572
+requesting data for a city
+	ID number: 5278120
+	name: Wausau
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5278120
+requesting data for a city
+	ID number: 1806439
+	name: Jianchang
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1806439
+requesting data for a city
+	ID number: 3437042
+	name: San Miguel
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3437042
+requesting data for a city
+	ID number: 6355593
+	name: Santa Fe de Mondújar
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6355593
+requesting data for a city
+	ID number: 7285911
+	name: Geuensee
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7285911
+requesting data for a city
+	ID number: 3077895
+	name: Cesky Dub
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3077895
+requesting data for a city
+	ID number: 2978669
+	name: Saint-Lumine-de-Coutais
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2978669
+requesting data for a city
+	ID number: 3027902
+	name: Cercoux
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3027902
+requesting data for a city
+	ID number: 9874
+	name: Ţālesh Maḩalleh
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=9874
+requesting data for a city
+	ID number: 1259652
+	name: Pimpri
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1259652
+requesting data for a city
+	ID number: 6427871
+	name: Soyaux
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6427871
+requesting data for a city
+	ID number: 4738606
+	name: University Park
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4738606
+requesting data for a city
+	ID number: 4716676
+	name: Olmos Park
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4716676
+requesting data for a city
+	ID number: 1679796
+	name: Viriato
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1679796
+requesting data for a city
+	ID number: 2861322
+	name: Regierungsbezirk Oberbayern
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2861322
+requesting data for a city
+	ID number: 6553491
+	name: Hahnenbach
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6553491
+requesting data for a city
+	ID number: 2815421
+	name: Wahles
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2815421
+requesting data for a city
+	ID number: 1709537
+	name: Kamanga
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1709537
+requesting data for a city
+	ID number: 548285
+	name: Kiryushino
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=548285
+requesting data for a city
+	ID number: 672847
+	name: Moroeni
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=672847
+requesting data for a city
+	ID number: 6435100
+	name: Seyches
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6435100
+requesting data for a city
+	ID number: 1854431
+	name: Okata
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1854431
+requesting data for a city
+	ID number: 2494029
+	name: Hassi Messaoud
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2494029
+requesting data for a city
+	ID number: 4255457
+	name: Cannelton
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4255457
+requesting data for a city
+	ID number: 3665547
+	name: Zetaquira
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3665547
+requesting data for a city
+	ID number: 472231
+	name: Volzhskiy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=472231
+requesting data for a city
+	ID number: 2784820
+	name: Arrondissement de Verviers
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2784820
+requesting data for a city
+	ID number: 585103
+	name: Qaracuxur
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=585103
+requesting data for a city
+	ID number: 759398
+	name: Siedliska
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=759398
+requesting data for a city
+	ID number: 5388593
+	name: Rolling Hills
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5388593
+requesting data for a city
+	ID number: 2667872
+	name: Torsby Kommun
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2667872
+requesting data for a city
+	ID number: 4565276
+	name: Hacienda Paraíso
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4565276
+requesting data for a city
+	ID number: 3126344
+	name: Carbonero el Mayor
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3126344
+requesting data for a city
+	ID number: 6455058
+	name: Bordeaux
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6455058
+requesting data for a city
+	ID number: 6427346
+	name: Moyaux
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6427346
+requesting data for a city
+	ID number: 6553700
+	name: Landkern
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6553700
+requesting data for a city
+	ID number: 5458688
+	name: Boyd
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5458688
+requesting data for a city
+	ID number: 2762952
+	name: Unterfrauenhaid
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2762952
+requesting data for a city
+	ID number: 6536510
+	name: Dairago
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6536510
+requesting data for a city
+	ID number: 5550683
+	name: Spur
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5550683
+requesting data for a city
+	ID number: 5919850
+	name: Chapais
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5919850
+requesting data for a city
+	ID number: 6553809
+	name: Urbar
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6553809
+requesting data for a city
+	ID number: 1881319
+	name: Qiantong
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1881319
+requesting data for a city
+	ID number: 2510891
+	name: Sierro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2510891
+requesting data for a city
+	ID number: 2652874
+	name: Cleobury Mortimer
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2652874
+requesting data for a city
+	ID number: 4397108
+	name: Marion County
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4397108
+requesting data for a city
+	ID number: 3493031
+	name: Provincia de San Pedro de Macorís
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3493031
+requesting data for a city
+	ID number: 3172689
+	name: Monticelli dOngina
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3172689
+requesting data for a city
+	ID number: 2421903
+	name: Dinguiraye
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2421903
+requesting data for a city
+	ID number: 2891844
+	name: Kelbra
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2891844
+requesting data for a city
+	ID number: 2177069
+	name: Ballina
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2177069
+requesting data for a city
+	ID number: 7873260
+	name: Manning
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7873260
+requesting data for a city
+	ID number: 6358996
+	name: Alberite
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6358996
+requesting data for a city
+	ID number: 6697218
+	name: Calerno
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6697218
+requesting data for a city
+	ID number: 3101829
+	name: Chasno
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3101829
+requesting data for a city
+	ID number: 2978276
+	name: Saint-Martin-en-Haut
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2978276
+requesting data for a city
+	ID number: 1712520
+	name: Guihulngan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1712520
+requesting data for a city
+	ID number: 2873153
+	name: Martfeld
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2873153
+requesting data for a city
+	ID number: 3167981
+	name: San Mauro Forte
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3167981
+requesting data for a city
+	ID number: 5098904
+	name: Haworth
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5098904
+requesting data for a city
+	ID number: 1698596
+	name: Naguilian
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1698596
+requesting data for a city
+	ID number: 1787384
+	name: Yangping
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1787384
+requesting data for a city
+	ID number: 6433351
+	name: Saint-Jean-de-Bournay
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6433351
+requesting data for a city
+	ID number: 6356829
+	name: Navezuelas
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6356829
+requesting data for a city
+	ID number: 2824687
+	name: Sunching
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2824687
+requesting data for a city
+	ID number: 5410430
+	name: Woodland
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5410430
+requesting data for a city
+	ID number: 6555924
+	name: Dettingen an der Erms
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6555924
+requesting data for a city
+	ID number: 2872825
+	name: Mauel
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2872825
+requesting data for a city
+	ID number: 5606275
+	name: Salmon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5606275
+requesting data for a city
+	ID number: 2951428
+	name: Bei der Hohne
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2951428
+requesting data for a city
+	ID number: 5990851
+	name: Kennedy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5990851
+requesting data for a city
+	ID number: 3841684
+	name: Pedro Luro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3841684
+requesting data for a city
+	ID number: 3009124
+	name: La Genevraie
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3009124
+requesting data for a city
+	ID number: 2782453
+	name: Apfelberg
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2782453
+requesting data for a city
+	ID number: 7872714
+	name: Deutsch Jahrndorf
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7872714
+requesting data for a city
+	ID number: 2808970
+	name: Wildenberg
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2808970
+requesting data for a city
+	ID number: 2265121
+	name: Pataeiro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2265121
+requesting data for a city
+	ID number: 3000351
+	name: Les Mathes
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3000351
+requesting data for a city
+	ID number: 2654858
+	name: Braunton
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2654858
+requesting data for a city
+	ID number: 6609463
+	name: Lavrushkino
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6609463
+requesting data for a city
+	ID number: 3116770
+	name: Milagro
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3116770
+requesting data for a city
+	ID number: 2784820
+	name: Arrondissement de Verviers
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2784820
+requesting data for a city
+	ID number: 3099759
+	name: Elblag
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3099759
+requesting data for a city
+	ID number: 1272802
+	name: Dhaurahra
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1272802
+requesting data for a city
+	ID number: 1270364
+	name: Harduaganj
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1270364
+requesting data for a city
+	ID number: 2512615
+	name: Picon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2512615
+requesting data for a city
+	ID number: 2986589
+	name: Poce-les-Bois
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2986589
+requesting data for a city
+	ID number: 668210
+	name: Salcia
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=668210
+requesting data for a city
+	ID number: 2152721
+	name: Pooncarie
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2152721
+requesting data for a city
+	ID number: 2975615
+	name: Sauzet
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2975615
+requesting data for a city
+	ID number: 2205745
+	name: Kayena
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2205745
+requesting data for a city
+	ID number: 4636463
+	name: Lexington
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4636463
+requesting data for a city
+	ID number: 3387258
+	name: Soledade
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3387258
+requesting data for a city
+	ID number: 6449280
+	name: Bourran
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6449280
+requesting data for a city
+	ID number: 6361974
+	name: Cheste
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6361974
+requesting data for a city
+	ID number: 4704238
+	name: Lacy-Lakeview
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4704238
+requesting data for a city
+	ID number: 3713715
+	name: Buena Vista
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3713715
+requesting data for a city
+	ID number: 1785427
+	name: Zengji
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1785427
+requesting data for a city
+	ID number: 3026172
+	name: Chatelaillon-Plage
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3026172
+requesting data for a city
+	ID number: 3928231
+	name: Surquillo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3928231
+requesting data for a city
+	ID number: 3118863
+	name: Laspra
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3118863
+requesting data for a city
+	ID number: 1269519
+	name: Jaipur
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1269519
+requesting data for a city
+	ID number: 2806176
+	name: Worfelden
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2806176
+requesting data for a city
+	ID number: 5327550
+	name: Benicia
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5327550
+requesting data for a city
+	ID number: 3589452
+	name: Santa Catarina Pinula
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3589452
+requesting data for a city
+	ID number: 2946270
+	name: Borgholzhausen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2946270
+requesting data for a city
+	ID number: 3689979
+	name: Ambalema
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3689979
+requesting data for a city
+	ID number: 3440055
+	name: Soriano
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3440055
+requesting data for a city
+	ID number: 3167134
+	name: Sardagna
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3167134
+requesting data for a city
+	ID number: 2807928
+	name: Winkl
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2807928
+requesting data for a city
+	ID number: 1646944
+	name: Cibungurgardu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1646944
+requesting data for a city
+	ID number: 3220898
+	name: Landkreis Würzburg
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3220898
+requesting data for a city
+	ID number: 1269519
+	name: Jaipur
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1269519
+requesting data for a city
+	ID number: 2852198
+	name: Pressath
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2852198
+requesting data for a city
+	ID number: 6553862
+	name: Waldbreitbach
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6553862
+requesting data for a city
+	ID number: 7290642
+	name: Spelthorne District
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7290642
+requesting data for a city
+	ID number: 1679360
+	name: Zumarraga
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1679360
+requesting data for a city
+	ID number: 3619135
+	name: Departamento de Granada
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3619135
+requesting data for a city
+	ID number: 639576
+	name: Reisjarvi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=639576
+requesting data for a city
+	ID number: 6556158
+	name: Poing
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6556158
+requesting data for a city
+	ID number: 1965349
+	name: Gading
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1965349
+requesting data for a city
+	ID number: 2995543
+	name: Marquefave
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2995543
+requesting data for a city
+	ID number: 2034881
+	name: Shiren
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2034881
+requesting data for a city
+	ID number: 7035210
+	name: Slumbung
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7035210
+requesting data for a city
+	ID number: 7780449
+	name: Ciekek
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7780449
+requesting data for a city
+	ID number: 3834843
+	name: Taco Pozo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3834843
+requesting data for a city
+	ID number: 2633351
+	name: City of York
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2633351
+requesting data for a city
+	ID number: 3034234
+	name: Beaulon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3034234
+requesting data for a city
+	ID number: 2155480
+	name: Newbridge
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2155480
+requesting data for a city
+	ID number: 3187641
+	name: Visnjicevo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3187641
+requesting data for a city
+	ID number: 1062146
+	name: Mahavelona
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1062146
+requesting data for a city
+	ID number: 4177321
+	name: Wakulla County
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4177321
+requesting data for a city
+	ID number: 2790236
+	name: Nevele
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2790236
+requesting data for a city
+	ID number: 4952121
+	name: Stoneham
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4952121
+requesting data for a city
+	ID number: 2511477
+	name: Salvaleon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2511477
+requesting data for a city
+	ID number: 3460896
+	name: Itaguajé
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3460896
+requesting data for a city
+	ID number: 5688025
+	name: Bismarck
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5688025
+requesting data for a city
+	ID number: 2294342
+	name: Tumu
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2294342
+requesting data for a city
+	ID number: 2962666
+	name: Maigh Eo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2962666
+requesting data for a city
+	ID number: 2803286
+	name: Alken
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2803286
+requesting data for a city
+	ID number: 4065649
+	name: Guntersville
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4065649
+requesting data for a city
+	ID number: 6092351
+	name: Ocean Falls
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6092351
+requesting data for a city
+	ID number: 3037183
+	name: Arcizans-Avant
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3037183
+requesting data for a city
+	ID number: 3125771
+	name: Castrejon de la Pena
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3125771
+requesting data for a city
+	ID number: 533808
+	name: Lubyaniki
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=533808
+requesting data for a city
+	ID number: 6443048
+	name: Samoëns
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6443048
+requesting data for a city
+	ID number: 1117656
+	name: Ban Talat Nua
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1117656
+requesting data for a city
+	ID number: 8012551
+	name: Sintra (São Martinho)
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8012551
+requesting data for a city
+	ID number: 3982766
+	name: Suchitlan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3982766
+requesting data for a city
+	ID number: 2661046
+	name: Dardagny
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2661046
+requesting data for a city
+	ID number: 2168026
+	name: Duri
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2168026
+requesting data for a city
+	ID number: 3027609
+	name: Chailly-en-Biere
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3027609
+requesting data for a city
+	ID number: 3021872
+	name: Damelevieres
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3021872
+requesting data for a city
+	ID number: 6556964
+	name: Nüdlingen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6556964
+requesting data for a city
+	ID number: 2651994
+	name: Criccieth
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2651994
+requesting data for a city
+	ID number: 6551520
+	name: Ziethen
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6551520
+requesting data for a city
+	ID number: 124193
+	name: Meybod
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=124193
+requesting data for a city
+	ID number: 5785035
+	name: Wolf Creek
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5785035
+requesting data for a city
+	ID number: 6176253
+	name: Warner Bay
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6176253
+requesting data for a city
+	ID number: 2879021
+	name: Leithe
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2879021
+requesting data for a city
+	ID number: 6547631
+	name: Hohenbocka
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6547631
+requesting data for a city
+	ID number: 2165758
+	name: Genoa
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2165758
+requesting data for a city
+	ID number: 3128181
+	name: Berlanga de Duero
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3128181
+requesting data for a city
+	ID number: 3027939
+	name: Région Centre
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3027939
+requesting data for a city
+	ID number: 8131430
+	name: Municipio San Diego
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8131430
+requesting data for a city
+	ID number: 5901919
+	name: Biscotasing
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5901919
+requesting data for a city
+	ID number: 2777392
+	name: Gschaid bei Birkfeld
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2777392
+requesting data for a city
+	ID number: 2270357
+	name: Campelos
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2270357
+requesting data for a city
+	ID number: 6556487
+	name: Zenting
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6556487
+requesting data for a city
+	ID number: 6423003
+	name: Qiaotou
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6423003
+requesting data for a city
+	ID number: 3516563
+	name: Soledad de Doblado
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3516563
+requesting data for a city
+	ID number: 6417886
+	name: Nadovrazhino
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6417886
+requesting data for a city
+	ID number: 3466261
+	name: Charqueadas
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3466261
+requesting data for a city
+	ID number: 3924610
+	name: Achacachi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3924610
+requesting data for a city
+	ID number: 666309
+	name: Stancuta
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=666309
+requesting data for a city
+	ID number: 3117137
+	name: Matilla de Arzon
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3117137
+requesting data for a city
+	ID number: 2655283
+	name: Bodelwyddan
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2655283
+requesting data for a city
+	ID number: 6957994
+	name: Xingdian
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6957994
+requesting data for a city
+	ID number: 4248788
+	name: Saint Elmo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4248788
+requesting data for a city
+	ID number: 4173051
+	name: Simsville
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4173051
+requesting data for a city
+	ID number: 3169759
+	name: Pumenengo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3169759
+requesting data for a city
+	ID number: 3429710
+	name: Puerto Yerua
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3429710
+requesting data for a city
+	ID number: 683758
+	name: Breaza
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=683758
+requesting data for a city
+	ID number: 714296
+	name: Vaja
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=714296
+requesting data for a city
+	ID number: 7287022
+	name: Saint-Blaise
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=7287022
+requesting data for a city
+	ID number: 1811299
+	name: Fengle
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1811299
+requesting data for a city
+	ID number: 5877395
+	name: Valdez-Cordova Census Area
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5877395
+requesting data for a city
+	ID number: 6432312
+	name: Monprimblanc
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6432312
+requesting data for a city
+	ID number: 6443400
+	name: Quincampoix
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6443400
+requesting data for a city
+	ID number: 4397248
+	name: Marthasville
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4397248
+requesting data for a city
+	ID number: 5081365
+	name: Warnerville
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=5081365
+requesting data for a city
+	ID number: 3107084
+	name: Valbona
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3107084
+requesting data for a city
+	ID number: 2820912
+	name: Trulben
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2820912
+requesting data for a city
+	ID number: 840921
+	name: Lazurnyy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=840921
+requesting data for a city
+	ID number: 4013297
+	name: Colonia Valle
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4013297
+requesting data for a city
+	ID number: 4315588
+	name: Baton Rouge
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=4315588
+requesting data for a city
+	ID number: 2265426
+	name: Olival
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2265426
+requesting data for a city
+	ID number: 3115958
+	name: Muel
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3115958
+requesting data for a city
+	ID number: 3108320
+	name: Taramundi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3108320
+requesting data for a city
+	ID number: 2771785
+	name: Mauerbach
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2771785
+requesting data for a city
+	ID number: 1261369
+	name: Nimbahera
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1261369
+requesting data for a city
+	ID number: 2077196
+	name: Barabba
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2077196
+requesting data for a city
+	ID number: 2656329
+	name: Barkisland
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2656329
+requesting data for a city
+	ID number: 674626
+	name: Logresti
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=674626
+requesting data for a city
+	ID number: 6443470
+	name: Sainte-Marguerite-sur-Duclair
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6443470
+requesting data for a city
+	ID number: 1919347
+	name: Yousheng
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1919347
+requesting data for a city
+	ID number: 2851894
+	name: Pronsfeld
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2851894
+requesting data for a city
+	ID number: 2919008
+	name: Gorisried
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2919008
+requesting data for a city
+	ID number: 1606239
+	name: Si Sa Ket
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1606239
+requesting data for a city
+	ID number: 3171997
+	name: Opi
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3171997
+requesting data for a city
+	ID number: 2852991
+	name: Pohla
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2852991
+requesting data for a city
+	ID number: 6903078
+	name: Changnyeong
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6903078
+requesting data for a city
+	ID number: 3167128
+	name: Sarezzo
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3167128
+requesting data for a city
+	ID number: 3085450
+	name: Slupsk
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3085450
+requesting data for a city
+	ID number: 2610196
+	name: Vinderup
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2610196
+requesting data for a city
+	ID number: 1254069
+	name: Tundla
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1254069
+requesting data for a city
+	ID number: 2899723
+	name: Holzheim
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2899723
+requesting data for a city
+	ID number: 6427281
+	name: Lassy
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=6427281
+requesting data for a city
+	ID number: 1517637
+	name: Ush-Tyube
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=1517637
+requesting data for a city
+	ID number: 8050879
+	name: Iturrama
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=8050879
+requesting data for a city
+	ID number: 3044835
+	name: Szaszvar
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=3044835
+requesting data for a city
+	ID number: 2620952
+	name: Hadsund
+	request URL: http://api.openweathermap.org/data/2.5/weather?APPID=49429005520da08d4ba9f720289d1961&units=imperial&id=2620952
